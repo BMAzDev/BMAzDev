@@ -1,0 +1,4 @@
+- 👋 Hello World!, I’m @BMAzDev
+- 👀 I’m interested in java language
+- 🌱 I’m currently learning java and c#
+- 📫 contact me on my e-mail: bmadevcontact@gmail.com
